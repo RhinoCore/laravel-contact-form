@@ -1,3 +1,3 @@
 <?php
 
-$router->post('contact', ['as' => 'contact.sendt', 'uses' => 'ContactFormController@send']);
+$router->post('contact', ['as' => 'contact.send', 'uses' => 'ContactFormController@send']);

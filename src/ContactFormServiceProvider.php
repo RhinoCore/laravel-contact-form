@@ -3,6 +3,7 @@
 namespace RhinoCore\ContactForm;
 
 use Illuminate\Support\ServiceProvider;
+use Illuminate\Routing\Router;
 
 class ContactFormServiceProvider extends ServiceProvider
 {
